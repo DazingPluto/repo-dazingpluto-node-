@@ -1,0 +1,21 @@
+{
+  "name": "repo-dazingpluto-node-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DazingPluto/repo-dazingpluto-node-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DazingPluto/repo-dazingpluto-node-/issues"
+  },
+  "homepage": "https://github.com/DazingPluto/repo-dazingpluto-node-#readme"
+}
